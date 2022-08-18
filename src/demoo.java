@@ -3,6 +3,6 @@ public class demoo {
         System.out.println(" this is test1");
         System.out.println("again");
         System.out.println("Pandora testing");
-        System.out.println("Mannyson1");
+        System.out.println("Mannyson");
     }
 }
